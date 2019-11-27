@@ -1,4 +1,7 @@
-# AutomateAPI
+# UDAutomateAPI
+
+Fork from https://github.com/gavsto/AutomateAPI, with optimized support to run in a Universal Dashboard https://github.com/ironmansoftware/universal-dashboard/. 
+Some added features along the way.
 
 # Features
 1) Get, search and return Powershell objects for pre-defined searches or custom conditions using Get-AutomateComputer. See https://github.com/gavsto/AutomateAPI/wiki/Get-AutomateComputer
